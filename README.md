@@ -25,6 +25,10 @@ class Example extends Component {
 }
 ```
 
+```tsx
+import { Demo } from 'react-admin-component'
+```
+
 ## License
 
 MIT © [](https://github.com/)
